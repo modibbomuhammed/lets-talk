@@ -5,8 +5,8 @@
     },
 
     "proxies": {
-        "/": {
-            "origin": "https://letstalk-server-modibbo/api"
+        "/api": {
+            "origin": "https://letstalk-server-modibbo.herokuapp.com/api"
         }
     }
 }
